@@ -19,7 +19,6 @@
 </head>
 
 <body>
-
     <section class="site">
         <header class="site__header">
             <section class="site__branding">
