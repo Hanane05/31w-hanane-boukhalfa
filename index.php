@@ -15,11 +15,11 @@ if (have_posts()) :
         <h2><?php the_title(); ?></h2>
         <p><?php the_content(); ?></p>
    
-<?php $lien = "<a href= '" . get_permalink() . "'>lien</a>"; 
+<?php $lien = "<a href= '" . get_permalink() . "'>". substr(get_the_title(), 0, 8) ."</a>"; 
 echo $lien;
 ?>
 
-<p><?= wp_trim_words(get_the_content(), 20, "") ?></p>
+<p><?= wp_trim_words(get_the_content(), 20, $lien) ?></p>
     <?php endwhile; ?>
 <?php endif; ?>
 
