@@ -1,6 +1,6 @@
 # Exercice - 1
 ## Premier thème et plugin  Wordpress
-### Contient 5 commits
+### Contient 3 commits
 
 > Le thème conient 5 fichiers:
 index.php
@@ -9,3 +9,6 @@ functions.php
 header.php
 footer.php
 readme.md
+
+Pour plus d'information sur la conception de thème
+[WP developper guide](https://developper.wordpress.org/theme)
