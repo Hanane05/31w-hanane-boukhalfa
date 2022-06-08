@@ -41,9 +41,12 @@ Text Domain: 31-w
 	- Alignments
 
 --------------------------------------------------------------*/
+/* variable
+--------------------------------------------- */
+@import "variable/typography";
+@import "variable/dimension";
+@import "variable/colors";
 
-// Import variables and mixins.
-@import "abstracts/abstracts";
 
 /*--------------------------------------------------------------
 # Generic
@@ -61,4 +64,3 @@ Text Domain: 31-w
 # Base
 --------------------------------------------------------------*/
 @import "base/base";
-
