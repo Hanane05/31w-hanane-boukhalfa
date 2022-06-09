@@ -557,4 +557,9 @@ select {
 textarea {
   width: 100%;
 }
+
+.site {
+  background-color: #ffe6d0;
+  padding: 2rem;
+}
 /*# sourceMappingURL=style.css.map */
