@@ -566,4 +566,9 @@ textarea {
 .site h2 {
   color: #002850;
 }
+
+.site a.bouton {
+  background-color: lightgrey;
+  padding: .25rem 1rem;
+}
 /*# sourceMappingURL=style.css.map */
