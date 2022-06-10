@@ -2,7 +2,7 @@
 ## Premier thème et plugin  Wordpress
 ### Contient 3 commits
 
-[github-page](https://Hanane05.github.io/31w-hanane-boukhalfa)
+[github-page](https://Hanane05.github.io/31w-hanane-boukhalfa/exer1)
 > Le thème conient 5 fichiers:
 index.php
 style.css
